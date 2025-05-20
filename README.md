@@ -33,7 +33,7 @@ I'm a **self-taught front-end developer** with a deep passion for building clean
 
 ### 📫 How to Reach Me:
 
-* 📧 [kwizera.herve@gmail.com](mailto:kwizera.herve@gmail.com)
+* 📧 [hervekwizera63@gmail.com]
 
 ---
 
