@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning web 3.0 development by using solidity <br>👯 I’m looking to collaborate on open-source projects and innovative startup ideas in web or mobile development.<br>🤝 I’m looking for help with mastering backend integrations and cloud deployments.<br>🌱 I’m currently learning advanced concepts in React.js, Node.js, and Flutter for mobile apps.<br>💬 Ask me about front-end development, JavaScript, and designing responsive web apps.<br>⚡ Fun fact: I started my coding journey self-taught and now build real-world apps that power businesses!<br>
+🔭 I’m currently working on learning web 3.0 development by using solidity <br>👯 I’m looking to collaborate on open-source projects and innovative startup ideas in web or mobile development.<br>🤝 I’m looking for help with mastering backend integrations and cloud deployments.<br>🌱 I’m currently learning advanced concepts in React.js, Node.js, Flutter for mobile apps, blockchain development .<br>💬 Ask me about front-end development, JavaScript, and designing responsive web apps.<br>⚡ Fun fact: I started my coding journey self-taught and now build real-world apps that power businesses!<br>
 
 
 # 💻 Tech Stack:
